@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TeknologiGithubActionsApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(TeknologiGithubActionsApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(TeknologiGithubActionsApplication.class, args);
+    }
 
 }
